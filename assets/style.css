@@ -127,6 +127,12 @@ body {
 	color: #000
 }
 
+.nav-link.active-tag {
+	color: #fff;
+    background-color: #5B5624;
+    border-radius: 0;
+}
+
 .item-column {
 	position: relative;
 	margin-bottom: 0 !important;
